@@ -18,6 +18,18 @@
     </requirement>
     <requirement>
       <requirement>
+        <dependency name="factory_girl_rails" version="1.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="gravatar_image_tag" version="0.1.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="rails" version="3.0.1" bound="EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
@@ -60,6 +72,37 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-rails (v2.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-rails-2.0.1)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] sqlite3-ruby (v1.2.5, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/sqlite3-ruby-1.2.5)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] webrat (v0.7.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/webrat-0.7.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bundler (v1.0.10, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/bundler-1.0.10)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.4.2, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/i18n-0.4.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] erubis (v2.6.6, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/erubis-2.6.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-expectations-2.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activeresource (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activeresource-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] builder (v2.1.2, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/builder-2.1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-core-2.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mime-types (v1.16, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/mime-types-1.16)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v0.8.7, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@global/gems/rake-0.8.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nokogiri (v1.4.4, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/nokogiri-1.4.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] polyglot (v0.3.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/polyglot-0.3.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activemodel (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activemodel-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] treetop (v1.4.9, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/treetop-1.4.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] tzinfo (v0.3.24, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/tzinfo-0.3.24)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] abstract (v1.0.0, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/abstract-1.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionpack (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/actionpack-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] railties (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/railties-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionmailer (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/actionmailer-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-test (v0.5.7, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rack-test-0.5.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-mocks-2.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] thor (v0.14.6, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/thor-0.14.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activerecord (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activerecord-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mail (v2.2.15, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/mail-2.2.15)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] diff-lcs (v1.1.2, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/diff-lcs-1.1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack (v1.2.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rack-1.2.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] arel (v1.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/arel-1.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-mount (v0.6.13, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rack-mount-0.6.13)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.0.1, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activesupport-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] factory_girl (v1.3.3, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/factory_girl-1.3.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] factory_girl_rails (v1.0, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/factory_girl_rails-1.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] gravatar_image_tag (v0.1.0, /Users/csgrasso/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/gravatar_image_tag-0.1.0)" level="application" />
   </component>
 </module>
 
