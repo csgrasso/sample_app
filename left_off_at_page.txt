@@ -1,2 +1,4 @@
-Page 270.
-Just added Gravatar tag, although unsure what it does
+Page 318.
+Just added the first test "it should not make a new user".  Learn about lambda @ http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Method_Calls
+
+
