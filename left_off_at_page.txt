@@ -1,4 +1,4 @@
-Page 318.
-Just added the first test "it should not make a new user".  Learn about lambda @ http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Method_Calls
+Page 358.
+Just finished the sign in upon creation.  Time for changing the layout links 9.4.3
 
 
