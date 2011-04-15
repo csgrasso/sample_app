@@ -1,4 +1,1 @@
-Page 358.
-Just finished the sign in upon creation.  Time for changing the layout links 9.4.3
-
-
+Finished chapter 9.  Do exercise 3 at the end of the chapter.  Also need to check in some files from main branch (exercises)
